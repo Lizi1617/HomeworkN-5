@@ -21,7 +21,7 @@ header {
 .navbar {
     display: inline-block;
     vertical-align: middle;
-    margin-left: 701px;
+    margin-left: 697px;
 }
 
 .navbar_li {
@@ -92,7 +92,7 @@ button {
 .ARTICLE {
     width: 780px;
     height: 452px;
-    margin: 116px 326px;
+    margin-block: 116px 326px;
 }
 
 h3 {
